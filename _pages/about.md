@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**⚠️ My website is currently under constuction!**
+
 I am a Post-Doctoral Researcher at the [Human-IST institute](https://human-ist.unifr.ch/), from the [Université de Fribourg](https://www.unifr.ch/home/fr/), Switzerland. 
 
 My research focuses on **Artificial Intelligence**, **User Modeling**, and **Trustworthy AI**. I prioritize a human-centered approach in my work, carefully considering the influence and impact of AI on users. 
@@ -19,17 +21,10 @@ I hold a Master’s degree in Cognitive Science from Université de Lorraine(Fra
 
 Beyond my research, I am passionate about teaching and mentoring, having guided students through various projects and courses in AI, data visualization, and related fields. I am also always eager to get involved in the research community, serving as a reviewer for prominent journals and contributing to collaborative efforts that advance the field (*e.g.* workshop organization).
 
-Outside of academia, I’m a passionate sports enthusiast. Whether it’s running, swimming, cycling, hiking, or horseback riding, you’ll often find me outdoors, staying active and enjoying nature! :run:
+Outside of academia, I’m a passionate sports enthusiast. Whether it’s running, swimming, cycling, hiking, or horseback riding, you’ll often find me outdoors, staying active and enjoying nature! 🚵‍♀️🏃🏼‍♀️🏊‍♀️🏇
 
 
-
-
-
-
-
-
-
-News
-======
+<!-- News
+====== -->
 
 
