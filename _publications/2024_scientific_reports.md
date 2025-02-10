@@ -3,7 +3,7 @@ title: "Gaining a Better Understanding of Online Polarization by Approaching it 
 collection: publications
 category: manuscripts
 permalink: /publication/2024_scientific_reports
-date: 2024
+date: 2024-10-30
 venue: 'Scientific Reports'
 paperurl: 'http://celinatreuillier.github.io/files/publications/Treuillier_ScientificReports_2024.pdf'
 citation: 'Treuillier, C., Castagnos, S., Lagier, C. et al. Gaining a better understanding of online polarization by approaching it as a dynamic process. Sci Rep 14, 8702 (2024). https://doi.org/10.1038/s41598-024-58915-w'
