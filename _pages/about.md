@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-**⚠️ My website is currently under constuction!**
-
 I am a Post-Doctoral Researcher at the [Human-IST institute](https://human-ist.unifr.ch/), from the [Université de Fribourg](https://www.unifr.ch/home/fr/), Switzerland. 
 
 My research focuses on **Human-Centered Artificial Intelligence**, **User Experience**, **User Modeling** and **Trustworthy AI**. I prioritize a human-centered approach in my work, carefully considering the influence and impact of AI on users. 

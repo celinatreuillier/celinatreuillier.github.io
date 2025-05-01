@@ -52,4 +52,4 @@ Teaching
 Please find the entire list of my teaching on the [dedicated page](https://celinatreuillier.github.io/teaching/).
   
 
-My detailed CV is available [here](//files/CV_TREUILLIER.pdf)!
+My detailed CV is available [here](/files/CV_TREUILLIER.pdf)!
